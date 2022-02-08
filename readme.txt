@@ -4,8 +4,7 @@ given repo
 https://github.com/dd604/refinedet.pytorch
 
 SaralaSewwandi
-git hub access token
-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
+
 
 
 go to (base) bmw@BMW:~/anaconda3/envs$
